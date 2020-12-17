@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1595744833 source:e:\college\sem 2\object computing lab\package\anish\overload.cpp
+	<iostream>
+	"package.h"
+
+1595709979 e:\college\sem 2\object computing lab\package\anish\package.h
+	<iostream>
+
+1595743511 source:e:\college\sem 2\object computing lab\package\anish\package.cpp
+	<iostream>
+	<limits>
+	<iomanip>
+	"package.h"
+
+1514140574 source:e:\college\sem 2\object computing lab\package\anish\package\main.cpp
+	<iostream>
+
+1595740688 source:e:\college\sem 2\object computing lab\package\anish\main.cpp
+	<iostream>
+	<fstream>
+	<limits>
+	<sys/stat.h>
+	"package.h"
+	<conio.h>
+	<stdlib.h>
+	<unistd.h>
+	<iomanip>
+
