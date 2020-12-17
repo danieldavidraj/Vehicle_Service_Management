@@ -1,0 +1,32 @@
+Invoice 1:
+
+					V E H I C L E   S E R V I C E    M A N A G E M E N T
+
+Scooter Service :-
+
+
+BRAKE
+
+	Brake Fluid - Lubricate
+
+
+		                       Vehicle Service - Customer Invoice                  
+			///////////////////////////////////////////////////////////
+			| GST IN:----------------------------|33CEXHJI90IOS   |
+			| Invoice No. :----------------------|         1      |
+			| Customer Name:---------------------|     anish      |
+			| Vehicle Type:----------------------|   Scooter      |
+			| Items Checked:---------------------|         1      |
+			| Your Initial Charge is :-----------|      2500      |
+			| Checkup Charges :------------------|        20      |
+			 ________________________________________________________
+
+			| Total Service Charge is :----------|      2520      |
+			 ________________________________________________________
+			 # This is a computer generated invoce and it does not
+			 require an authorised signture #
+ 
+			///////////////////////////////////////////////////////////
+			You are advised to pay up the amount before due date.
+			Otherwise penelty fee will be applied
+			///////////////////////////////////////////////////////////
