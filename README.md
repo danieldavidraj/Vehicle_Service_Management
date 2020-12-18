@@ -1,5 +1,5 @@
 # Vehicle Service Management
-A vehicle service managing software developed using C++ and object-oriented approach.
+A vehicle service managing software developed using C++ in object-oriented approach to track the servicing of vehicles.
 ## Concepts used :
 * Exception handling
 * File handling
